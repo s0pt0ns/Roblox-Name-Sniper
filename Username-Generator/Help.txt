@@ -1,0 +1,10 @@
+HELP:
+
+   Install python to path,
+   A way of doing this is through python.org or downloading python through microsoft store
+   run Requirements.bat before anything
+   Requirements.bat is open source and editable for your cyber safety
+
+HOW TO USE:
+
+https://www.youtube.com/watch?v=hQRcDGXq2zY
